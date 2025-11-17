@@ -21,3 +21,5 @@
 ---
 
 Gracias por visitar mi perfil. ¡Estoy construyendo con propósito y estrategia! 💼📊🚀
+
+![Portada](/assets/portada.jpg)
