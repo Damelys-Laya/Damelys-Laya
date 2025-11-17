@@ -1,3 +1,6 @@
+![Portada](imagen%20de%20portada.jpg)
+
+
 # 👋 ¡Hola! Soy Damelys Laya
 
 🎯 Analista de datos en formación | Inteligencia de negocios | Visualización estratégica
