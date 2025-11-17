@@ -22,4 +22,7 @@
 
 Gracias por visitar mi perfil. ¡Estoy construyendo con propósito y estrategia! 💼📊🚀
 
-![Portada](/assets/portada.jpg)
+<p align="center">
+  <img src="imagen%20de%20portada.jpg" alt="Portada" />
+</p>
+
