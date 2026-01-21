@@ -1,4 +1,9 @@
-# 👋 ¡Hola! Soy Damelys Laya
+<p align="center">
+  <img src="portada-damelys.png" alt="Portada profesional Damelys Laya" />
+</p>
+
+
+## 👋 ¡Hola! Soy Damelys Laya
 
 🎯 Analista de datos en formación | Inteligencia de negocios | Visualización estratégica
 
@@ -20,10 +25,6 @@
 
 ---
 
-Gracias por visitar mi perfil. ¡Estoy construyendo con propósito y estrategia! 💼📊🚀
-
-<p align="center">
-  <img src="portada-damelys.png" alt="Portada profesional Damelys Laya" />
-</p>
+*Gracias por visitar mi perfil. ¡Estoy construyendo con propósito y estrategia!* 💼📊🚀
 
 
