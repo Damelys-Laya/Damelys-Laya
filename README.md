@@ -23,6 +23,7 @@
 Gracias por visitar mi perfil. ¡Estoy construyendo con propósito y estrategia! 💼📊🚀
 
 <p align="center">
-  <img src="imagen%20de%20portada.jpg" alt="Portada" />
+  <img src="portada-damelys.png" alt="Portada profesional Damelys Laya" />
 </p>
+
 
